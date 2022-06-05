@@ -21,3 +21,9 @@ Muestra los clientes anteriores en pantalla, tambien a modo de prueba
 ABP5:
 
 Para la revision de la actividad se sugiere crear un User a traves de la ventana de administracion propia de Django o a traves de la url /crearusuario (disponible en el Navbar) y luego verificarlo en la url /login (tambien disponible en el Navbar). Si el login es correcto envia a un template de bienvenida en el que muestra el mensaje "Bienvenido {{User}}, login exitoso!!!"
+
+
+Admin/
+
+Username: admin
+Password: admin
